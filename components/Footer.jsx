@@ -11,9 +11,7 @@ const Footer = () => {
 			</div>
 			<div className='flex gap-3 text-stone-700 text-md  '>
 				<a
-					href='https://www.linkedin.com/in/
-DeveloperUtkarsh
-/'
+					href='https://www.linkedin.com/in/DeveloperUtkarsh/'
 					target='_blank'
 				>
 					<i className='fa-brands fa-linkedin-in  hover:text-primary-orange hover:transform hover:scale-110 transition cursor-pointer'></i>
