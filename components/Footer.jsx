@@ -20,7 +20,7 @@ const Footer = () => {
 					<i className='fa-brands fa-github hover:text-primary-orange hover:transform hover:scale-110 transition cursor-pointer'></i>
 				</a>
 				<a
-					href='https://instagram.com/iam_utkarshtiwari'
+					href='https://instagram.com/developer_utkarsh/'
 					target='_blank'
 				>
 					<i className='fa-brands fa-instagram  hover:text-primary-orange hover:transform hover:scale-110 transition cursor-pointer'></i>
